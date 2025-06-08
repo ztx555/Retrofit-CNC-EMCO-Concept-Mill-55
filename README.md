@@ -10,4 +10,4 @@ TODO:
 Implement the use of the signal from the proximity sensors on the X, Y, Z axes. It is necessary to decide what to do with the door open state signal.
 
 Thank you,
-ztx555.
+Yevgeniy.
